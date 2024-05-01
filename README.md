@@ -34,3 +34,6 @@ contract ExceptionHandlingExample {
 
 # AUTHOR
 @cp-aviso
+
+# LICENSE
+This project is licensed under the cp-aviso License - see the LICENSE.md file for details
